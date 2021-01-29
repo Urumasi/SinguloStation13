@@ -1,0 +1,11 @@
+{
+    "map_name": "Construction Station",
+    "map_path": "map_files/ConstructionStation-2",
+    "map_file": "constructionstation-2.dmm",
+    "shuttles": {
+	    "cargo": "cargo_con",
+	    "ferry": "ferry_fancy",
+	    "whiteship": "whiteship_meta",
+	    "emergency": "emergency_box"
+    }
+}
